@@ -22,8 +22,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FishVisionAR",
-            url: "https://github.com/Fiskher/fish-vision-ar-spm/releases/download/0.4.4/FishVisionAR.xcframework.zip",
-            checksum: "91f90338eb54b8bba2e1f167bf8f9b7f04bae20d3f41759d6e14fdcd0961080e"
+            url: "https://github.com/Fiskher/fish-vision-ar-spm/releases/download/0.4.5/FishVisionAR.xcframework.zip",
+            checksum: "83c77bf64412279ffb1e602aed01de6e01e0ce1bc1ac4643d5828bd3bea4ab44"
         ),
     ]
 )
